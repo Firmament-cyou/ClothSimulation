@@ -1,6 +1,8 @@
 # ClothSimulation
 基于质点弹簧模型的柔性布料仿真
 
+![image](https://github.com/Firmament-cyou/ClothSimulation/blob/master/images/cloth2.PNG)
+
 为了模拟真实的效果，opengl 窗口中加入了球体与地板的碰撞
 
 WASD 与鼠标右键可以移动摄像机
