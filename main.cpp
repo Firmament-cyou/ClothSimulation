@@ -266,6 +266,7 @@ int main()
 
     delete[] particle_positions;
     delete[] bottom_indices;
+    delete cloth;
 
     // glfw: terminate, clearing all previously allocated GLFW resources.
     // ------------------------------------------------------------------
